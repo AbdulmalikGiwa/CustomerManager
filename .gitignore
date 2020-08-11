@@ -1,0 +1,5 @@
+db.sqlite3
+/CustomerManager/credentials.py
+runtime.txt
+db.json
+venv

@@ -1,6 +1,6 @@
 # CustomerManager
 A CRM system built in django, for managing orders made by customers. Static files are served from/to an AWS S3 bucket, AWS RDS with PostgreSQL for database
-#Instructions
+# Instructions
 open https://malik-crm.herokuapp.com/
 1. You can create new account but doesn't have full privileges, to login as admin, use the following details on the login page
   username:Malik
